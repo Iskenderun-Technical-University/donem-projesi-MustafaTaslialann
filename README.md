@@ -1,3 +1,3 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/gTiETg9a)
-[MUSTAFA_TASLIALAN_192503063_PROJE_Onerisi.pdf](https://github.com/Iskenderun-Technical-University/donem-projesi-MustafaTaslialann/files/11259633/MUSTAFA_TASLIALAN_192503063_PROJE_Onerisi.pdf)
-Yüklediğim proje önerisi ektedir
+
+
