@@ -2,3 +2,5 @@
 
 Proje önerimin pdfi ektedir.
 [MUSTAFA_TASLIALAN_192503063_PROJE_Onerisi.pdf](https://github.com/Iskenderun-Technical-University/donem-projesi-MustafaTaslialann/files/11260631/MUSTAFA_TASLIALAN_192503063_PROJE_Onerisi.pdf)
+ 
+ Projemin tüm kodları futbol oyunu dosyasındadır.
